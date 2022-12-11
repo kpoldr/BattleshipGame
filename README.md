@@ -1,3 +1,3 @@
-# icd0008-2021f
+# Battleship Game in C#
 
 Project for icd0008
